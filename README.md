@@ -4,3 +4,4 @@ Welcome! I am **Ashwin Rajesh Sam** (SRN: **R25EJ019**), a 3rd-semester Computer
 
 - **Skill**: Learning Python and C systems programming.
 - **Interest**: Interested in cloud computing, modern web architecture, and developer tools.
+- **Goal**: Goal: contribute to open source and build impactful software engineering systems.
